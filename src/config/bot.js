@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Echo Bot").
-        name: "I LOVE FLYINGCAT ❤️",
+        name: "JOIN ECHO LLC Server discord.gg/89PMtDdWQx ",
         // Activity type number (0 = Playing).
         type: 0, 
       },
